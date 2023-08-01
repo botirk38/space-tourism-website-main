@@ -29,23 +29,23 @@ Users should be able to:
 ### Screenshots
 
 #### Desktop
-  ![Home Page](./public/screenshots/desktop-home.png)
-  ![Destination Page](./public/screenshots/desktop-destination.png)
-  ![Crew Page](./public/screenshots/desktop-crew.png)
-  ![Technology Page](./public/screenshots/desktop-technology.png)
+  ![Home Page](./space-tourism-website/public/screenshots/desktop-home.png)
+  ![Destination Page](./space-tourism-website/public/screenshots/desktop-destination.png)
+  ![Crew Page](./space-tourism-website/public/screenshots/desktop-crew.png)
+  ![Technology Page](./space-tourism-website/public/screenshots/desktop-technology.png)
 
 #### Mobile
-  ![Home Page](./public/screenshots/mobile-home.png)
-  ![Destination Page](./public/screenshots/mobile-destination.png)
-  ![Crew Page](./public/screenshots/mobile-crew.png)
-  ![Technology Page](./public/screenshots/mobile-technology.png)
-  ![Mobile Menu](./public/screenshots/mobile-menu.png)
+  ![Home Page](./space-tourism-website/public/screenshots/mobile-home.png)
+  ![Destination Page](./space-tourism-website/public/screenshots/mobile-destination.png)
+  ![Crew Page](./space-tourism-website/public/screenshots/mobile-crew.png)
+  ![Technology Page](./space-tourism-website/public/screenshots/mobile-technology.png)
+  ![Mobile Menu](./space-tourism-website/public/screenshots/mobile-menu.png)
 
 #### Tablet
-  ![Home Page](./space-tourims-website/public/screenshots/tablet-home.png)
-  ![Destination Page](./public/screenshots/tablet-destination.png)
-  ![Crew Page](./public/screenshots/tablet-crew.png)
-  ![Technology Page](./public/screenshots/tablet-technology.png)
+  ![Home Page](./space-tourism-website/public/screenshots/)
+  ![Destination Page](./space-tourism-website/public/screenshots/tablet-destination.png)
+  ![Crew Page](./space-tourism-website/public/screenshots/tablet-crew.png)
+  ![Technology Page](./space-tourism-website/public/screenshots/tablet-technology.png)
 
 
 ### Links
