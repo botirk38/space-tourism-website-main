@@ -29,23 +29,23 @@ Users should be able to:
 ### Screenshots
 
 #### Desktop
-    ![Home Page](./public/screenshots/desktop-home.png)
-    ![Destination Page](./public/screenshots/desktop-destination.png)
-    ![Crew Page](./public/screenshots/desktop-crew.png)
-    ![Technology Page](./public/screenshots/desktop-technology.png)
+  ![Home Page](./public/screenshots/desktop-home.png)
+  ![Destination Page](./public/screenshots/desktop-destination.png)
+  ![Crew Page](./public/screenshots/desktop-crew.png)
+  ![Technology Page](./public/screenshots/desktop-technology.png)
 
 #### Mobile
-    ![Home Page](./public/screenshots/mobile-home.png)
-    ![Destination Page](./public/screenshots/mobile-destination.png)
-    ![Crew Page](./public/screenshots/mobile-crew.png)
-    ![Technology Page](./public/screenshots/mobile-technology.png)
-    ![Mobile Menu](./public/screenshots/mobile-menu.png)
+  ![Home Page](./public/screenshots/mobile-home.png)
+  ![Destination Page](./public/screenshots/mobile-destination.png)
+  ![Crew Page](./public/screenshots/mobile-crew.png)
+  ![Technology Page](./public/screenshots/mobile-technology.png)
+  ![Mobile Menu](./public/screenshots/mobile-menu.png)
 
 #### Tablet
-    ![Home Page](./public/screenshots/tablet-home.png)
-    ![Destination Page](./public/screenshots/tablet-destination.png)
-    ![Crew Page](./public/screenshots/tablet-crew.png)
-    ![Technology Page](./public/screenshots/tablet-technology.png)
+  ![Home Page](./public/screenshots/tablet-home.png)
+  ![Destination Page](./public/screenshots/tablet-destination.png)
+  ![Crew Page](./public/screenshots/tablet-crew.png)
+  ![Technology Page](./public/screenshots/tablet-technology.png)
 
 
 ### Links
@@ -107,8 +107,9 @@ export default function loadData() {
 
 ### Continued development
 
-I would like to continue to learn how to use React Router to create multi-page websites. I would also like to learn how to use React to create a single-page application. I would also like to learn how to use React to create a website that uses a database to store data. I would also like to learn how to use React to create a website that uses a database to store data. I would also like to learn how to use React to create a website that uses a database to store data. I would also like to learn how to use React to create a website that uses a database to store data. I would also like to learn how to use React to create a website that uses a database to store data. I would also like to learn how to use React to create a website that uses a database to store data. I would also like to learn how to use React to create a website that uses a database to store data. I would also like to learn how to use React to create a website that uses a database to store data.
-*
+Learn how to use React Router to create multi-page websites.
+Learn how to use React to create a single-page application.
+Learn how to use React to create a website that uses a database to store data.
 
 ## Author
 
