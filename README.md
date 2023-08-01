@@ -42,7 +42,7 @@ Users should be able to:
   ![Mobile Menu](./public/screenshots/mobile-menu.png)
 
 #### Tablet
-  ![Home Page](./public/screenshots/tablet-home.png)
+  ![Home Page](./space-tourims-website/public/screenshots/tablet-home.png)
   ![Destination Page](./public/screenshots/tablet-destination.png)
   ![Crew Page](./public/screenshots/tablet-crew.png)
   ![Technology Page](./public/screenshots/tablet-technology.png)
