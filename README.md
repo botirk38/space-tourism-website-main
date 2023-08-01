@@ -39,10 +39,10 @@ Users should be able to:
   ![Destination Page](./space-tourism-website/public/screenshots/mobile-destination.png)
   ![Crew Page](./space-tourism-website/public/screenshots/mobile-crew.png)
   ![Technology Page](./space-tourism-website/public/screenshots/mobile-technology.png)
-  ![Mobile Menu](./space-tourism-website/public/screenshots/mobile-menu.png)
+  ![Mobile Menu](./space-tourism-website/public/screenshots/mobile-dropdown.png)
 
 #### Tablet
-  ![Home Page](./space-tourism-website/public/screenshots/)
+  ![Home Page](./space-tourism-website/public/screenshots/tablet-home.png)
   ![Destination Page](./space-tourism-website/public/screenshots/tablet-destination.png)
   ![Crew Page](./space-tourism-website/public/screenshots/tablet-crew.png)
   ![Technology Page](./space-tourism-website/public/screenshots/tablet-technology.png)
